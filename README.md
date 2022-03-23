@@ -5,4 +5,5 @@ This simple Arduino project uses:
 - Photoresistor or LDR (Light Dependent Resistor)
 - I2C LCD (Liquid Crystal Displays)
 - Button
+
 The button is used to switch from using the DHT11 to Photoresistor and vice versa.
